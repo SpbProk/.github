@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Здравствуйте!
+Это страница компании ООО "ПРОК". Здесь хранятся и публикуются проекты, которые используются компанией каждый день. Вы, анонимные читатели, имеете полное право использовать наши наработки в своих собственных проектах. Мы не против)))
+Если вы супер-мега-гига профи и вам есть что сказать - пишите. Я (сис админ) буду очень рад вашим правкам и советам. Спасибо.
